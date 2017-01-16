@@ -1,0 +1,32 @@
+table {
+    margin: auto;
+}
+td {
+    overflow: hidden;
+}
+.menu {
+    color: #363636;
+    font-family: Verdana, Helvetica, Tahoma, sans-serif;
+    font-weight: 700;
+    font-size: 160%;
+}
+.list {
+    color: #363636;
+    font-family: Verdana, Helvetica, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 140%;
+    line-height: 1.5
+}
+.staff {
+    color: #363636;
+    font-family: Verdana, Helvetica, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 140%;
+}
+.select1 {
+    background: #b1ca00;
+    color: black; /* Цвет текста */
+    font-family: Verdana, Helvetica, Tahoma, sans-serif;
+    font-weight: normal; /* Жирное начертание */
+    font-size: 22px;
+}

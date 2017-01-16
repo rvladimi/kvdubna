@@ -1,0 +1,77 @@
+
+body {
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+}
+
+html {
+    height: 100%;
+    width: 100%;
+}
+
+table {
+    margin: auto;
+    border: 0;
+}
+
+td {
+    overflow: hidden;
+}
+
+.contact {
+    color: #363636;
+    font-family: Verdana, Helvetica, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 120%;
+    line-height: 1.9;
+}
+
+.bottom {
+    color: #363636;
+    font-family: Verdana, Helvetica, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 130%;
+    border: 0;
+    background: rgba(54, 54, 54, 0);
+}
+
+.about {
+    background: #00474d; /* Синий цвет фона */
+    color: white; /* Цвет текста */
+    font-family: Verdana, Helvetica, Tahoma, sans-serif;
+    font-weight: 400; /* Жирное начертание */
+    font-size: 150%
+}
+
+.menu {
+    color: #363636;
+    font-family: Verdana, Helvetica, Tahoma, sans-serif;
+    font-weight: normal;
+    font-size: 130%;
+    border: 0;
+    background: rgba(54, 54, 54, 0);
+}
+
+.picture {
+    position: relative;
+}
+
+.price {
+    color: #363636;
+    font-size: 120%;
+    font-family: Verdana, Helvetica, Tahoma, sans-serif;
+}
+
+.address {
+    color: #363636;
+    font-size: 120%;
+    font-family: Verdana, Helvetica, Tahoma, sans-serif;
+}
+
+.type {
+    color: #363636;
+    font-size: 120%;
+    font-family: Verdana, Helvetica, Tahoma, sans-serif;
+}
